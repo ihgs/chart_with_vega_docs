@@ -1,8 +1,8 @@
 # Privacy Policy
 
-## Chart with vega
+## Chart with Vega
 
-`Chart with vega` app does not collect or store any personal data.
+`Chart with Vega` app does not collect or store any personal data.
 
 ### Data Collection
 

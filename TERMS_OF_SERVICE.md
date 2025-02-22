@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to `Chart with vega` ("the App"). By using the App, you agree to comply with and be bound by the following terms and conditions of use. Please review these terms carefully. If you do not agree with these terms, you should not use the App.
+Welcome to `Chart with Vega` ("the App"). By using the App, you agree to comply with and be bound by the following terms and conditions of use. Please review these terms carefully. If you do not agree with these terms, you should not use the App.
 
 ## Use of the app
 

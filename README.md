@@ -9,18 +9,20 @@ Several simple graph Vega templates are provided. It is also possible to customi
 
 ## How to use the App:
 
+![](chart_with_vega.gif)
+
 ### Add a new chart
 
-1. Click `Chart with vega` icon
-1. Select Chart type
+1. Click `Chart with Vega` icon
+1. Select a chart type
 1. Input data of Chart
 1. (Optional) Edit vega-lite specification
 1. Click Add button
 
 ### Edit an added chart
 
-1. Select an added chart
-1. Click `Chart with vega` icon
+1. Select an added chart in your board
+1. Click `Chart with Vega` icon
 1. Modify data or vega-lite specification
 1. Click Update button
 
