@@ -4,7 +4,7 @@
 
 Welcome to `Chart with Vega` ("the App"). By using the App, you agree to comply with and be bound by the following terms and conditions of use. Please review these terms carefully. If you do not agree with these terms, you should not use the App.
 
-## Use of the app
+## Use of the App
 
 The App is provided "as is" without any warranties, express or implied. The App is hosted on GitHub Pages as a static site and does not include any server-side components. By using the App, you acknowledge that:
 
@@ -23,6 +23,7 @@ In no event shall the developers of the App be liable for any direct, indirect, 
 ## Changes to the Terms
 
 We reserve the right to modify these terms at any time. Any changes will be posted on this page, and it is your responsibility to review these terms periodically. Your continued use of the App after any changes have been made constitutes your acceptance of the new terms.
+
 
 ## Termination
 

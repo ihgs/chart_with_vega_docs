@@ -2,7 +2,7 @@
 
 ## Chart with Vega
 
-`Chart with Vega` app does not collect or store any personal data.
+The `Chart with Vega` app does not collect or store any personal data.
 
 ### Data Collection
 
@@ -10,7 +10,7 @@ This app does not collect any personal information from users. All data processe
 
 ### Data Storage
 
-Since this app is a static site on GitHub Pages, there is no backend server or database. Therefore, no personal data is stored or retained.
+Since this app is a static site hosted on GitHub Pages, there is no backend server or database. Therefore, no personal data is stored or retained.
 
 ### Changes to This Privacy Policy
 

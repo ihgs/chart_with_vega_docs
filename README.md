@@ -1,11 +1,11 @@
 
-`Chart with vega` allows you to create and edit graph images on your Miro board using Vega-Lite grammar.
-Several simple graph Vega templates are provided. It is also possible to customize the Vega-Lite spec to create more complex graphs.
+`Chart with Vega` allows you to create and edit graph images on your Miro board using Vega-Lite grammar.
+Several simple Vega graph templates are provided. It is also possible to customize the Vega-Lite spec to create more complex graphs.
 
 ## Key Features:
 
-- add charts on your board
-- edit charts on your board
+- Add charts on your board
+- Edit charts on your board
 
 ## How to use the App:
 
@@ -13,18 +13,19 @@ Several simple graph Vega templates are provided. It is also possible to customi
 
 ### Add a new chart
 
-1. Click `Chart with Vega` icon
+1. Click the `Chart with Vega` icon
 1. Select a chart type
-1. Input data of Chart
-1. (Optional) Edit vega-lite specification
-1. Click Add button
+1. Click the Open button
+1. Input data of the chart
+1. (Optional) Edit the Vega-Lite specification
+1. Click the Add button
 
 ### Edit an added chart
 
-1. Select an added chart in your board
-1. Click `Chart with Vega` icon
-1. Modify data or vega-lite specification
-1. Click Update button
+1. Select a chart on your board
+1. Click the `Chart with Vega` icon
+1. Modify the data or Vega-Lite specification
+1. Click the Update button
 
 
 ## Helpful Links
