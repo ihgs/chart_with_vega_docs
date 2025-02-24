@@ -4,7 +4,7 @@ Several simple graph Vega templates are provided. It is also possible to customi
 
 ## Key Features:
 
-- add charts on your boards
+- add charts on your board
 - edit charts on your board
 
 ## How to use the App:
