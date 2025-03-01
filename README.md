@@ -29,7 +29,7 @@ Several simple Vega graph templates are provided. It is also possible to customi
 
 ## Third-Party Libraries
 
-The app uses third-party libraries.See the [NOTICE](./NOTICE) file.
+The app uses third-party libraries. See the [NOTICE](./NOTICE) file.
 
 ## Helpful Links
 
