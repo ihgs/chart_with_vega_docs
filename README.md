@@ -15,7 +15,7 @@ Several simple Vega graph templates are provided. It is also possible to customi
 
 1. Click the `Chart with Vega` icon
 1. Select a chart type
-1. Click the Open button
+1. Click the Next button
 1. Input data of the chart
 1. (Optional) Edit the Vega-Lite specification
 1. Click the Add button
