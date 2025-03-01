@@ -27,6 +27,9 @@ Several simple Vega graph templates are provided. It is also possible to customi
 1. Modify the data or Vega-Lite specification
 1. Click the Update button
 
+## Third-Party Libraries
+
+The app uses third-party libraries.See the [NOTICE](./NOTICE) file.
 
 ## Helpful Links
 
