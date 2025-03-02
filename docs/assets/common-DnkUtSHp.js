@@ -1,4 +1,4 @@
-import{r as N,j as G,g as Zi,a as uf,b as lf,W as qe,t as ff}from"./index-rQnCqdvM.js";import{G as df}from"./miro-BPkhP_OB.js";const er=N.createContext(null),IE=({children:e})=>{const[r,n]=N.useState(""),[t,o]=N.useState([]),[d,l]=N.useState([]);return G.jsx(er.Provider,{value:{spec:r,setSpec:n,data:t,setData:o,columns:d,setColumns:l},children:e})};var xo={exports:{}};/*!
+import{r as N,j as G,g as Zi,a as uf,b as lf,W as qe,t as ff}from"./index-rQnCqdvM.js";import{G as df}from"./miro-BztXybb3.js";const er=N.createContext(null),IE=({children:e})=>{const[r,n]=N.useState(""),[t,o]=N.useState([]),[d,l]=N.useState([]);return G.jsx(er.Provider,{value:{spec:r,setSpec:n,data:t,setData:o,columns:d,setColumns:l},children:e})};var xo={exports:{}};/*!
 	Copyright (c) 2018 Jed Watson.
 	Licensed under the MIT License (MIT), see
 	http://jedwatson.github.io/classnames
