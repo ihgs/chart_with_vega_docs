@@ -62,7 +62,9 @@ For more detailed customization options, please refer to the [Vega-Lite document
 ### Adding a New category
 
 * Add a column in Data panel
+
   ![Data](./images/add_column_data.png)
+  
 * Edit `fold` 
 
     ```diff
