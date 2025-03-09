@@ -79,6 +79,8 @@ For more detailed customization options, please refer to the [Vega-Lite document
             "category",
     ```
 
+#### Output
+
 ![Bar chart](./images/add_column_bar.png)
 
 
@@ -102,6 +104,8 @@ For more detailed customization options, please refer to the [Vega-Lite document
         }
     }
     ```
+
+#### Output
 
 ![stacked bar chart](./images/stacked_bar.png)
 
@@ -138,6 +142,8 @@ For more detailed customization options, please refer to the [Vega-Lite document
             "field": "year",
     ```
 
+#### Output
+
 ![Bar chart with the label](./images/bar_with_labels.png)
 
 ## Line Chart
@@ -171,7 +177,7 @@ For more detailed customization options, please refer to the [Vega-Lite document
 
 ### Mulitple Lines
 
-* Add a `type` column in Data panel and data with `type`
+* Add a `type` column in Data panel
 
     ![alt text](./images/multiple_lines_data.png)
 
@@ -188,6 +194,8 @@ For more detailed customization options, please refer to the [Vega-Lite document
         }
     }
     ```
+
+#### Output
 
 ![Multipe line chart](./images/multiple_lines.png)
 
@@ -226,7 +234,7 @@ For more detailed customization options, please refer to the [Vega-Lite document
 
 ### Adding Size to Scatter Chart
 
-* Add `size` column
+* Add `size` column in Data panel
     
   ![Data](./images/scatter_heatmap_data.png)
 
@@ -259,6 +267,8 @@ For more detailed customization options, please refer to the [Vega-Lite document
       }
     }
   ```
+
+#### Output
 
 ![Scatter chart with size](./images/scatter_heatmap.png)
 
@@ -309,5 +319,7 @@ For more detailed customization options, please refer to the [Vega-Lite document
       }
     }
   ```
+
+#### Output
 
 ![Sorted pie chart](./images/ordered_pie.png)
