@@ -3,6 +3,3 @@
   Referrer-Policy: strict-origin-when-cross-origin
   X-Content-Type-Options: nosniff
   Cache-Control: no-cache, no-store
-  Content-Security-Policy: default-src 'self' https:; script-src 'self' 'unsafe-inline' https://trusted-cdn.com; connect-src 'self' https://api.trusted-domain.com;
-  X-Frame-Options: SAMEORIGIN
-  Permissions-policy: geolocation=(), microphone=(), camera=(), payment=()
