@@ -10,7 +10,7 @@ This app does not collect any personal information from users. All data processe
 
 ### Data Storage
 
-Since this app is a static site hosted on GitHub Pages, there is no backend server or database. Therefore, no personal data is stored or retained.
+Since this app is a static site hosted on Netlify, there is no backend server or database. Therefore, no personal data is stored or retained.
 
 ### Changes to This Privacy Policy
 
