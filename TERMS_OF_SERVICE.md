@@ -6,7 +6,7 @@ Welcome to `Chart with Vega` ("the App"). By using the App, you agree to comply 
 
 ## Use of the App
 
-The App is provided "as is" without any warranties, express or implied. The App is hosted on GitHub Pages as a static site and does not include any server-side components. By using the App, you acknowledge that:
+The App is provided "as is" without any warranties, express or implied. The App is hosted on Netlify as a static site and does not include any server-side components. By using the App, you acknowledge that:
 
 - You are responsible for any content you create or modify using the App.
 - The App does not collect, store, or process any personal data.
